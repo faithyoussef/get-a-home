@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744717497622",
+    "project_id": "getawallpaper-46c8a",
+    "storage_bucket": "getawallpaper-46c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744717497622:android:b7025e856313a50d774c37",
+        "android_client_info": {
+          "package_name": "com.example.getawallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744717497622-ej2l8m86ks70igq8kkpofl4lreaek6ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC41gWTmXKlWh41M-bysYzAzDlPZmJVRe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744717497622-ej2l8m86ks70igq8kkpofl4lreaek6ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
